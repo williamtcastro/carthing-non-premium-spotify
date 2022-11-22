@@ -1,12 +1,8 @@
 # Car Thing Non-Premium Spotify
 
----
-
 This repo enables the use of the Car thing with a non-premium Spotify account. It removes the need to have the premium account to use the Car Thing but you still have the usual limitations of the Spotify free besides you’re now able to chose the song on the playlist and voice commands works as normal.  
 
 ## Tools required
-
----
 
 - [ADB Tools](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 - [Python3](https://www.python.org/)
@@ -14,8 +10,6 @@ This repo enables the use of the Car thing with a non-premium Spotify account. I
 - [Superbird Tool - by Bishopdynamics](https://github.com/bishopdynamics/superbird-tool)
 
 ## Installation
-
----
 
 Flash the already jailbroken firmware provided [here](https://github.com/err4o4/spotify-car-thing-reverse-engineering/issues/22#issue-1432896381) from lmore377 into your Car Thing or use **Superbird Tool** to flash the firmware.
 
@@ -41,12 +35,8 @@ Pair with your phone via bluetooth and it’s done.
 
 ## Troubleshooting
 
----
-
 If you’re car thing us paired with your phone, unpair it and then pair it again after the installation process.
 
 ## Warranty and Liability
-
----
 
 None. This changes the original firmware from Spotify, and if a OTA Update is made these changes will probably be reverted. By using this tool, you accept responsibility for the outcome.
