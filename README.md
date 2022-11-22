@@ -13,7 +13,7 @@ This repo enables the use of the Car thing with a non-premium Spotify account. I
 
 Flash the already jailbroken firmware provided [here](https://github.com/err4o4/spotify-car-thing-reverse-engineering/issues/22#issue-1432896381) from lmore377 into your Car Thing or use **Superbird Tool** to flash the firmware.
 
-Run the commands below:
+Run the commands below on the repo folder:
 
 ```bash
 # 1 - Enable carthing to write files
