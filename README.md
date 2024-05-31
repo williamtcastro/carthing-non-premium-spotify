@@ -2,6 +2,9 @@
 
 This repo enables the use of the Car thing with a non-premium Spotify account. It removes the need to have the premium account to use the Car Thing but you still have the usual limitations of the Spotify free besides you’re now able to chose the song on the playlist and voice commands works as normal.  
 
+## JOIN OUR DISCORD COMMUINITY
+https://discord.gg/YACmDGAMy5
+
 ## Tools required
 
 - [ADB Tools](https://www.xda-developers.com/install-adb-windows-macos-linux/)
